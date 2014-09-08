@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1409819387 source:d:\urop\create c lib\rsacrypto\main.c
+	<stdio.h>
+	<gmp.h>
+	"RSACrypto.h"
+
+1035175203 d:\urop\gmp\include\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1409817699 d:\urop\create c lib\rsacrypto\rsacrypto.h
+	<stdio.h>
+	<gmp.h>
+
